@@ -43,7 +43,7 @@ configuration:
 plugins:
   - source: "@quartz-themes/core"
     options:
-      theme: "tokyo-night"
+      theme: "its-theme"
       mode: "both"
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -114,11 +114,6 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
-  - source: "@quartz-themes/core"
-    enabled: true
-    options:
-      theme: default
-      mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
