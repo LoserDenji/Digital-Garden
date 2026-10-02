@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: LoserDenji's Digial Garden
+  pageTitle: LoserDenji's Digital Garden
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
