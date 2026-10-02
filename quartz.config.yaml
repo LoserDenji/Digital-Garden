@@ -113,10 +113,6 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
-      mode: both
-  - source: "@quartz-themes/core"
-    options:
       theme: "its-theme"
       mode: "both"
   - source: "@quartz-community/remove-draft"
