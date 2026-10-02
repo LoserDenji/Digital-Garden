@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: loserdenji.github.io/digialgarden
+  baseUrl: loserdenji.github.io/Digital-Garden
   ignorePatterns:
     - private
     - templates
